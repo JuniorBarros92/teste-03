@@ -1,0 +1,4 @@
+export const supaUrl = "https://icgqjzpkgvrveurjouug.supabase.co";
+
+export const supaKey =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImljZ3FqenBrZ3ZydmV1cmpvdXVnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTIyNTczNzAsImV4cCI6MjEwNzgzMzM3MH0.nZaFes-PpYRBzGjEdh7j7blDC-fPeFjxlJyOI7AdgAQ";
